@@ -363,7 +363,6 @@ void test2(int nums[], int size) //Balanced binary tree constructed with fill fu
     printf("SUM :%d\n", sum);
     printf("DEPTH :%d\n",maxDepth(root));
     printf("-----------\n");
-    (root);
 }
 
 void test3(int nums[], int size) //Instead of using fill function we use insertNode for every value which results in a skewed binary tree.
